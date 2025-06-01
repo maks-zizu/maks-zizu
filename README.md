@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maks-zizu&locale=en&mode=weekly&theme=radical&hide_border=false&card_height=120&border_radius=8&order=3" width="360" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=maks-zizu&locale=en&mode=daily&theme=radical&hide_border=false&card_width=450&card_height=150&border_radius=8&order=3" alt="streak graph"  />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maks-zizu&locale=en&hide_title=fals&layout=compact&langs_count=6&theme=radical&hide_border=false&order=3" width="360" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maks-zizu&locale=en&hide_title=fals&layout=compact&card_width=450&langs_count=6&theme=radical&hide_border=false&order=3" alt="languages graph"  />
 </div>
 
 ###
