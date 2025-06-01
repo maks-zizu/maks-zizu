@@ -19,10 +19,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maks-zizu&locale=en&mode=daily&theme=radical&hide_border=false&card_width=360&border_radius=8&order=3" height="200" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maks-zizu&locale=en&hide_title=false&layout=compact&langs_count=5&theme=radical&hide_border=false&order=3" height="200" alt="languages graph"  />
 </div>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maks-zizu&locale=en&hide_title=false&layout=compact&langs_count=5&theme=radical&hide_border=false&order=3" height="160" alt="languages graph"  />
