@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maks-zizu&locale=en&mode=daily&theme=radical&hide_border=false&card_width=360&border_radius=8&order=3" height="200" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=maks-zizu&locale=en&mode=daily&theme=radical&hide_border=false&card_width=360&border_radius=8&order=3" height="160" alt="streak graph"  />
 </div>
 
 <div align="center">
