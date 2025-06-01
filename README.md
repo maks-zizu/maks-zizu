@@ -23,14 +23,13 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maks-zizu&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=8&order=3" height="200" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=maks-zizu&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=8&order=3" height="160" alt="streak graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maks-zizu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maks-zizu&locale=en&hide_title=false&layout=compact&card_width=360&langs_count=5&theme=dracula&hide_border=false&order=2" height="120" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/pie?username=maks-zizu&locale=en&hide_title=false&layout=compact&card_width=360&langs_count=5&theme=radical&hide_border=false&order=2" height="160" alt="languages graph"  />
 </div>
 
 ###
