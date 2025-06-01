@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maks-zizu&locale=en&hide_title=false&card_width=480&layout=compact&langs_count=5&theme=radical&hide_border=false&order=3" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maks-zizu&locale=en&hide_title=fals&layout=compact&langs_count=5&theme=radical&hide_border=false&order=3" height="160" alt="languages graph"  />
 </div>
 
 ###
