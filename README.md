@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maks-zizu&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=8&order=2&card_height=120" width="420" alt="streak graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=" alt="GitHub Streak" /></a>
 </div>
 
 <div align="center">
